@@ -24,7 +24,7 @@ Goto [API keys](https://home.openweathermap.org/api_keys) OpenWeather and copy k
 And Paste the keys in code below appid.
 
 ```
-let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=`07178fe4cc4f075c5c56746321dd7164`&units=metric"
+let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=**07178fe4cc4f075c5c56746321dd7164**&units=metric"
 ```
 
 
