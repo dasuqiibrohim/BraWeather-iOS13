@@ -1,3 +1,4 @@
+![Phone and Tablet Mockup](https://user-images.githubusercontent.com/73922909/113810539-b30f2400-9794-11eb-83e8-9078bf158463.jpg)
 
 
 # BraWeather - iOS13
@@ -6,6 +7,11 @@ A BraWeather-iOS13 project created in Swift using Application Programming Interf
 ```
 if you love this BraWeather-iOS13, give us a star, you will be an encouragement in our lives.
 ```
+
+# Requirements
+* Xcode 11.
+* Swift 5.
+* iOS 13 or higher.
 
 # How to Use
 ### Step 1:
@@ -27,8 +33,7 @@ And Paste the keys in code below appid.
 let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=07178fe4cc4f075c5c56746321dd7164&units=metric"
 ```
 
-
-# Daily Calculator Features
+# BraWeather-iOS 13 Features
 * Light and Dark mode.
 * Use vector images as image assets.
 * Use the UISearchBar to get user input and the delegate pattern.
