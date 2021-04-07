@@ -18,8 +18,7 @@ https://github.com/dasuqiibrohim/BraWeather-iOS13.git
 
 # Daily Calculator Features
 
-# Libraries & Tools Used
-[SideMenu](https://github.com/jonkykong/SideMenu)
+
 
 # About Us
 I am [Ibrohim Dasuqi](https://github.com/dasuqiibrohim) from indonesia is a Software Developer focused on mobile iOS Developers. If you are interested in working with me, you can contact me via [Linkedin](https://www.linkedin.com/in/dasuqiibrohim/).
