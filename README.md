@@ -18,6 +18,7 @@ https://github.com/dasuqiibrohim/BraWeather-iOS13.git
 
 ### Step 2:
 Open and Create Account [OpenWeather](https://openweathermap.org).
+
 Goto [API keys](https://home.openweathermap.org/api_keys) OpenWeather and copy key. 
 
 
