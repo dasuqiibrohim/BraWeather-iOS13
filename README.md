@@ -70,13 +70,24 @@ var conditionName: String {
 # Folder Structure
 Here is the core folder structure which flutter provides.
 ```
-flutter-app/
-|- android
-|- build
-|- ios
-|- lib
-|- test
+BraWeather/
+|- BraWeather
+  |- AppDelegate.swift
+  |- SceneDelegate.swift
+  |- Model
+    |- WeatherManager.swift
+    |- WeatherData.swift
+    |- WeatherModel.swift
+  |- View
+    |- Main.storyboard
+  |- Controller
+    |- ViewController.swift
+  |- Assets.xcassets
+  |- LaunchScreen.storyboard
+  |- Info.plist
+|- Products
 ```
+
 # About Us
 I am [Ibrohim Dasuqi](https://github.com/dasuqiibrohim) from indonesia is a Software Developer focused on mobile iOS Developers. If you are interested in working with me, you can contact me via [Linkedin](https://www.linkedin.com/in/dasuqiibrohim/).
 
