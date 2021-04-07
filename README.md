@@ -1,14 +1,11 @@
 ![dailyCalculator](https://user-images.githubusercontent.com/73922909/112814582-a2322480-90a9-11eb-98e1-3fa1d77127c5.jpg)
 
 
-# Daily Calculator iOS
-A Daily Calculator iOS project created in Swift using AutoLayout, IBDesignable, SubViews, dan Side Menu.
-
-# Getting Started
-Daily Calculator contains the implementation of Automatic Layout. Auto Layout makes it easy to support multiple screen sizes in your app. Auto Layout on swift, Make apps look great in any orientation on various devices.
+# BraWeather - iOS13
+A BraWeather-iOS13 project created in Swift using Application Programming Interfaces (APIs) to grab live data from the internet. BraWeather-iOS13 will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
 
 ```
-if you love this Daily Calculator, give us a star, you will be an encouragement in our lives.
+if you love this BraWeather-iOS13, give us a star, you will be an encouragement in our lives.
 ```
 
 # Designer
