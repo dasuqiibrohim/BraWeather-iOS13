@@ -16,6 +16,11 @@ Download or clone this repo by using the link below:
 https://github.com/dasuqiibrohim/BraWeather-iOS13.git
 ```
 
+### Step 2:
+Open and Create Account [OpenWeather](https://openweathermap.org).
+Goto [API keys](https://home.openweathermap.org/api_keys) OpenWeather and copy key. 
+
+
 # Daily Calculator Features
 * Light and Dark mode.
 * Use vector images as image assets.
@@ -30,6 +35,8 @@ https://github.com/dasuqiibrohim/BraWeather-iOS13.git
 * Use Core Location to get the current location from the phone GPS.
 
 # Condition Codes
+Weather condition from [OpenWeather](https://openweathermap.org/weather-conditions), you can check weather condition from this link.
+
 ```
 var conditionName: String {
   switch conditionId {
